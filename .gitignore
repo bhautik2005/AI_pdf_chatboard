@@ -1,0 +1,40 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Environment variables
+.env
+
+# Temporary files
+temp.pdf
+
+# OS files
+.DS_Store
+# Ignore everything by default
+*
+
+# Allow only specific files
+!main.py
+!app.py
+!create_database.py
+!requirements.txt
+
+# Allow chroma_db folder and its contents
+!chroma_db/
+!chroma_db/**
+
+# Allow .gitignore itself
+!.gitignore
