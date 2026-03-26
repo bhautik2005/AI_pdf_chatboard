@@ -84,19 +84,11 @@ Upload any PDF and interact with it using natural language — just like ChatGPT
 * pandas
 * numpy
 
-### 🌐 API Layer (Optional)
-
-* fastapi
-* uvicorn
+ 
 
 ### 🎨 UI
 
 * streamlit
-
-### 🛠 Utilities
-
-* tqdm
-* requests
 
 ---
 
@@ -214,7 +206,3 @@ If you like this project:
 👉 Contribute improvements
 
 ---
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
