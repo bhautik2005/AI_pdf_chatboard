@@ -31,9 +31,9 @@ Upload any PDF and interact with it using natural language — just like ChatGPT
 </tr>
 </table>
 ------
-## 🎥 Demo Video
 
-[![Watch the demo]( https://www.linkedin.com/posts/bhautik-gondaliya-310181370_ai-machinelearning-langchain-ugcPost-7442773063760330752-o9Oj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvcnHwBiXAZNKYD5TX2rA9UBdpN93Fpl78)
+## 🎥 Demo Video
+👉 (https://www.linkedin.com/posts/bhautik-gondaliya-310181370_ai-machinelearning-langchain-ugcPost-7442773063760330752-o9Oj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvcnHwBiXAZNKYD5TX2rA9UBdpN93Fpl78)
 
 ## 🚀 Features
 
