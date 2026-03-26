@@ -3,28 +3,29 @@
 An intelligent **PDF Question-Answering Chatbot** built using **LangChain + ChromaDB + Mistral AI**.
 Upload any PDF and interact with it using natural language — just like ChatGPT! 🤖
 
----## Application Screenshots
+---
+## Application Screenshots
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/Screenshot%202026-02-28%20120530.png" width="450"><br>
+<img src="https://github.com/bhautik2005/AI_pdf_chatboard/blob/6e1c0a0b87b63b6767edd06bc26154b07aa0a029/Screenshot%202026-03-25%20204939.png" width="450"><br>
  
 </td>
 
 <td align="center">
-<img src="https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/Screenshot%202026-02-28%20120730.png" width="450"><br>
+<img src="https://github.com/bhautik2005/AI_pdf_chatboard/blob/6e1c0a0b87b63b6767edd06bc26154b07aa0a029/Screenshot%202026-03-25%20211018.png" width="450"><br>
  
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/Screenshot%202026-02-28%20120814.png" width="450"><br>
+<img src="https://github.com/bhautik2005/AI_pdf_chatboard/blob/6e1c0a0b87b63b6767edd06bc26154b07aa0a029/Screenshot%202026-03-25%20211035.png" width="450"><br>
  
 </td>
 
 <td align="center">
-<img src="https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/Screenshot%202026-02-28%20120903.png" width="450"><br>
+<img src="https://github.com/bhautik2005/AI_pdf_chatboard/blob/6e1c0a0b87b63b6767edd06bc26154b07aa0a029/Screenshot%202026-03-25%20211212.png" width="450"><br>
  
 </td>
 </tr>
